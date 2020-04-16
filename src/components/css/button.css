@@ -1,0 +1,11 @@
+.button {
+    width: 111px;
+    height: 47px;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background: transparent;
+    color: white;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
