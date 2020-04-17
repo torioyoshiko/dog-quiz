@@ -54,7 +54,6 @@ class App extends Component {
           correctBreed,
         },
       });
-      console.log(correctBreed);
     }
 
     onQuestionAnswered = (breed) => {
