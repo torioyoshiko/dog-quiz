@@ -8,7 +8,7 @@ const GameOver = (props) => (
       <p className="game-over">Game Over</p>
       <img alt="correctBreed" className="breedImg" src={props.correctImg} />
       <p className="breed-info">
-        This dog is a
+        This dog is a 
         {props.correctBreed}
       </p>
       <Button onClick={props.startOver}>Play again</Button>
