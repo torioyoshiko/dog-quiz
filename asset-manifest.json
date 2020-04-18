@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dog-quiz/static/css/main.d96dad5f.chunk.css",
-    "main.js": "/dog-quiz/static/js/main.e633e822.chunk.js",
-    "main.js.map": "/dog-quiz/static/js/main.e633e822.chunk.js.map",
+    "main.css": "/dog-quiz/static/css/main.0f82d839.chunk.css",
+    "main.js": "/dog-quiz/static/js/main.4c9592c2.chunk.js",
+    "main.js.map": "/dog-quiz/static/js/main.4c9592c2.chunk.js.map",
     "runtime-main.js": "/dog-quiz/static/js/runtime-main.c121bc0e.js",
     "runtime-main.js.map": "/dog-quiz/static/js/runtime-main.c121bc0e.js.map",
     "static/js/2.3e94d8b0.chunk.js": "/dog-quiz/static/js/2.3e94d8b0.chunk.js",
     "static/js/2.3e94d8b0.chunk.js.map": "/dog-quiz/static/js/2.3e94d8b0.chunk.js.map",
     "index.html": "/dog-quiz/index.html",
-    "precache-manifest.d1934a3b72badcb8176b0e60d7c6b585.js": "/dog-quiz/precache-manifest.d1934a3b72badcb8176b0e60d7c6b585.js",
+    "precache-manifest.f7ed3b69001ce3102d0511cb5223af19.js": "/dog-quiz/precache-manifest.f7ed3b69001ce3102d0511cb5223af19.js",
     "service-worker.js": "/dog-quiz/service-worker.js",
-    "static/css/main.d96dad5f.chunk.css.map": "/dog-quiz/static/css/main.d96dad5f.chunk.css.map",
+    "static/css/main.0f82d839.chunk.css.map": "/dog-quiz/static/css/main.0f82d839.chunk.css.map",
     "static/js/2.3e94d8b0.chunk.js.LICENSE.txt": "/dog-quiz/static/js/2.3e94d8b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c121bc0e.js",
     "static/js/2.3e94d8b0.chunk.js",
-    "static/css/main.d96dad5f.chunk.css",
-    "static/js/main.e633e822.chunk.js"
+    "static/css/main.0f82d839.chunk.css",
+    "static/js/main.4c9592c2.chunk.js"
   ]
 }
