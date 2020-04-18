@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dog-quiz/static/css/main.d96dad5f.chunk.css",
+    "main.js": "/dog-quiz/static/js/main.c2caad2e.chunk.js",
+    "main.js.map": "/dog-quiz/static/js/main.c2caad2e.chunk.js.map",
+    "runtime-main.js": "/dog-quiz/static/js/runtime-main.c121bc0e.js",
+    "runtime-main.js.map": "/dog-quiz/static/js/runtime-main.c121bc0e.js.map",
+    "static/js/2.b8f9bdff.chunk.js": "/dog-quiz/static/js/2.b8f9bdff.chunk.js",
+    "static/js/2.b8f9bdff.chunk.js.map": "/dog-quiz/static/js/2.b8f9bdff.chunk.js.map",
+    "index.html": "/dog-quiz/index.html",
+    "precache-manifest.7872ec612beb69b58878e200f5e0604a.js": "/dog-quiz/precache-manifest.7872ec612beb69b58878e200f5e0604a.js",
+    "service-worker.js": "/dog-quiz/service-worker.js",
+    "static/css/main.d96dad5f.chunk.css.map": "/dog-quiz/static/css/main.d96dad5f.chunk.css.map",
+    "static/js/2.b8f9bdff.chunk.js.LICENSE.txt": "/dog-quiz/static/js/2.b8f9bdff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c121bc0e.js",
+    "static/js/2.b8f9bdff.chunk.js",
+    "static/css/main.d96dad5f.chunk.css",
+    "static/js/main.c2caad2e.chunk.js"
+  ]
+}
