@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d61d26a47d471ec753f04940e696b3ba",
+    "revision": "a3b1ac1ee9001fbc1839fec17144cf9d",
     "url": "/dog-quiz/index.html"
   },
   {
-    "revision": "ab4a3141e6efaca0fdd1",
+    "revision": "26673cc6bda8d78d8083",
     "url": "/dog-quiz/static/css/main.d96dad5f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dog-quiz/static/js/2.b8f9bdff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab4a3141e6efaca0fdd1",
-    "url": "/dog-quiz/static/js/main.34b7f568.chunk.js"
+    "revision": "26673cc6bda8d78d8083",
+    "url": "/dog-quiz/static/js/main.0e845c84.chunk.js"
   },
   {
     "revision": "ed2cbbbd3c084c7def09",
