@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dog-quiz/static/css/main.0f82d839.chunk.css",
+    "main.css": "/dog-quiz/static/css/main.7a66e11b.chunk.css",
     "main.js": "/dog-quiz/static/js/main.4c9592c2.chunk.js",
     "main.js.map": "/dog-quiz/static/js/main.4c9592c2.chunk.js.map",
     "runtime-main.js": "/dog-quiz/static/js/runtime-main.c121bc0e.js",
@@ -8,15 +8,15 @@
     "static/js/2.3e94d8b0.chunk.js": "/dog-quiz/static/js/2.3e94d8b0.chunk.js",
     "static/js/2.3e94d8b0.chunk.js.map": "/dog-quiz/static/js/2.3e94d8b0.chunk.js.map",
     "index.html": "/dog-quiz/index.html",
-    "precache-manifest.f7ed3b69001ce3102d0511cb5223af19.js": "/dog-quiz/precache-manifest.f7ed3b69001ce3102d0511cb5223af19.js",
+    "precache-manifest.90d519aed2d1501b7f1ea5a0dcc9a4d5.js": "/dog-quiz/precache-manifest.90d519aed2d1501b7f1ea5a0dcc9a4d5.js",
     "service-worker.js": "/dog-quiz/service-worker.js",
-    "static/css/main.0f82d839.chunk.css.map": "/dog-quiz/static/css/main.0f82d839.chunk.css.map",
+    "static/css/main.7a66e11b.chunk.css.map": "/dog-quiz/static/css/main.7a66e11b.chunk.css.map",
     "static/js/2.3e94d8b0.chunk.js.LICENSE.txt": "/dog-quiz/static/js/2.3e94d8b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c121bc0e.js",
     "static/js/2.3e94d8b0.chunk.js",
-    "static/css/main.0f82d839.chunk.css",
+    "static/css/main.7a66e11b.chunk.css",
     "static/js/main.4c9592c2.chunk.js"
   ]
 }
